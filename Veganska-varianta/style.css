@@ -47,22 +47,48 @@ body {
     color: white;
 }
 
+.h1 {
+    font-family: "raleway";
+    font-size: 28px;
+    padding: 10px;
+}
+
+.h2 {
+    font-family: "raleway";
+    font-size: 18px;
+    padding: 10px;
+}
+
+.kategorie, .komentar {
+    font-size: 14px;
+    padding: 10px;
+}
+
 .recept1 {
     background-image: url("images/salat.jpg");
+    min-height: 200px;
 }
 
 .recept2 {
     background-image: url("images/chlebicek.jpg");
+    min-height: 90px;
 }
 
 .recept3 {
     background-image: url("images/cizrna.jpg");
+    min-height: 90px;
 }
 
 .recept4 {
     background-image: url("images/tacos.jpg");
+    min-height: 90px;
 }
 
 .recept5 {
     background-image: url("images/burger.jpg");
+    min-height: 90px;
+}
+
+.recept {
+    /* background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); */
 }
