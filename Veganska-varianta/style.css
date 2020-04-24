@@ -42,3 +42,27 @@ body {
 /* ----- DOLE BUDE TVOJE CSS ----- */
 
 /* ------------------------------- */
+
+body {
+    color: white;
+}
+
+.recept1 {
+    background-image: url("images/salat.jpg");
+}
+
+.recept2 {
+    background-image: url("images/chlebicek.jpg");
+}
+
+.recept3 {
+    background-image: url("images/cizrna.jpg");
+}
+
+.recept4 {
+    background-image: url("images/tacos.jpg");
+}
+
+.recept5 {
+    background-image: url("images/burger.jpg");
+}
